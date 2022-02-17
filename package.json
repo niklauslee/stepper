@@ -1,0 +1,6 @@
+{
+  "name": "stepper",
+  "version": "1.0.0",
+  "description": "Kaluma library to control stepper motors",
+  "main": "index.js"
+}
